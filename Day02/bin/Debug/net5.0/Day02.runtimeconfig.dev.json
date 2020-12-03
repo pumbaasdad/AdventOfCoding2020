@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ajakowpa/.dotnet/store/|arch|/|tfm|",
+      "/home/ajakowpa/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/Day01.01
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/Day01.01.deps.json
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/Day01.01.runtimeconfig.json
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/Day01.01.runtimeconfig.dev.json
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/Day01.01.dll
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/ref/Day01.01.dll
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/bin/Debug/net5.0/Day01.01.pdb
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.csprojAssemblyReference.cache
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.AssemblyInfoInputs.cache
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.AssemblyInfo.cs
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.csproj.CoreCompileInputs.cache
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.dll
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/ref/Day01.01.dll
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.pdb
+/home/ajakowpa/RiderProjects/AdventOfCoding2020/Day01.01/obj/Debug/net5.0/Day01.01.genruntimeconfig.cache
